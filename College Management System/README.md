@@ -10,4 +10,3 @@ All the pages are interconnected and the externals links are also properly attac
 ### Made By
 
 Pragya
-Aditi
